@@ -1,4 +1,3 @@
-
 # PRP-Calc-CLI-Python
 Python CLI Program for Arithmetic Operations 
 <br>
@@ -12,7 +11,10 @@ Python CLI Program for Arithmetic Operations
   -exp n1 n2        (Exponentiation)Only 2 numbers separated by spaces will be added.<br>
   -flrd n1 n2       (Floor division)Only 2 numbers separated by spaces will be added.<br>
   <br>
-  ## Demo Video: <br>
+   <div align="center"/>
+ 
+ 
 [![CLI Python PRP Calc](https://img.youtube.com/vi/q4joswFPPbU/0.jpg)](https://youtu.be/q4joswFPPbU)
-### Click on video 
+### Click to watch full video 
+  </div>
   
